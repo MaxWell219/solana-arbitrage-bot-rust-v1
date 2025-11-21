@@ -1,8 +1,8 @@
-# [📞Telegram](https://t.me/oxie11)
+# [📞Telegram](https://t.me/zydomus)
 
 
 # NEW Profitable Solana sniper and copy trading bot has been released!!!
-## https://github.com/ChangeYourself0613/Solana-Sniper-Copy-Trading-Bot
+## https://github.com/zydomus/Solana-Sniper-Copy-Trading-Bot
 
 # Solana Arbitrage Bot Architecture
 
